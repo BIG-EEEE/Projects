@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi👋;I+am+Emmanuel+Agyemang+Oti...&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+😊;I+am+Emmanuel+Agyemang+Oti...&center=true&size=30">
   </a>
 </h1>
 
@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/BIG-EEEE/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Climate%20Scientist%20and%20Research%20Assistant;Data%20Analyst;Ui%20Designer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Climate%20Scientist;Research%20Assistant;Data%20Analyst;Ui%20Designer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <h3 align="center">
