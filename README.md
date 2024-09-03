@@ -54,9 +54,21 @@ Do you care to know more about me?
 
 <br/>
 
-<h3 align="center">
-👨‍💻 Languages
-</h3>
+</p>
+<hr>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<br>
+<p align="center">
+  <img title="Python" height="30" src="Python.svg">
+  <img title="Jupyter" height="30" src="Jupyter.svg">
+  <img title="Pandas" height="30" src="Pandas.svg">
+  <img title="NumPy" height="30" src="NumPy.svg">
+  <img title="Matplotlib" height="30" src="matplotlib.svg">
+  <img title="Scikit-learn" height="30" src="scikit-learn.svg">
+  <img title="Latex" height="30" src="latex.svg">
+  <img title="PyCharm" height="30" src="PyCharm.png">
+  <img title="Problem Solving" height="30" src="problemSolving.png">
+</p>
 <div align='center'>
  
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/BIG-EEEE)
